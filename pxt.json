@@ -1,11 +1,12 @@
 {
-    "name": "motor",
+    "name": "MAX7219",
     "version": "0.0.1",
-    "description": "This is dc motor, stepper motor, steering gear library.",
+    "description": "MAX7219 Dot Matrix Module 4-in-1",
     "license": "GNU",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pins": "*"
     },
     "files": [
         "README.md",
